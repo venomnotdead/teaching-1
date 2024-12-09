@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello this is vaidik's code\n");
+    printf("Hello this is main's code\n");
     return 0;
 }
